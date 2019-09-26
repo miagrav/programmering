@@ -1,0 +1,2 @@
+# programmering
+Eksempelkode Grunnleggende Programmering
